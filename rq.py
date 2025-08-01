@@ -11,7 +11,9 @@ for i in range(5):  #i indicates the number of rows and they are 4
 
 
 
-    """
+    """  
+
+    The Output of the above program
     *
     * *
     * * *
